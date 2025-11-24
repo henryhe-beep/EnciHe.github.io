@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanbo Tang"
+title                    : "Enci He"
 description              : "Hi~ this is my academic homepage." 
-repository               : "tangyuanbo1/tangyuanbo1.github.io"
+repository               : "henryhe-beep/EnciHe.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuanbo Tang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tsinghua University"
-  location         : "Shenzhen"
+  name             : "Enci He"
+  avatar           : "images/avatar.png"
+  bio              : "Peking University"
+  location         : "Beijing"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V-kWQScAAAAJ&hl=en"
-  email            : "tyb22@mails.tsinghua.edu.cn"
+  email            : "2400017755@stu.pku.edu.cn"
   # researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangyuanbo1"
+  github           : "henryhe-beep"
   google_plus      :
   keybase          :
   instagram        :
