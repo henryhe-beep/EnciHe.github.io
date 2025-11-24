@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at Tsinghua University. My supervisor is Professor Li Yang. I graduated from School of Information Science and Engineering, Southeast University in Nanjing with a bachelor's degree. I have published 2 + academic papers including co-authoring.
+I am currently an undergraduate student at Peking University, majoring in Intelligent Science and Technology. My hobbies include badminton, swimming, and traveling.
 <!-- 
  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a> -->
 
-My research areas include:
-- Trajectory data mining
-- Explainable machine learning
-- Dictionary learning
-- Sparse representation learning
+My research interests include:
+- Embodied intelligence
+- Deep learning
+- Machine learning
+- Computer vision
 
   
 
@@ -33,8 +33,8 @@ My research areas include:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2014.09 - 2021.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/seu.png" width="24pt"></a> School of Information Science and Engineering, Southeast University, Nanjing, Jiangsu, undergraduate & master
-- *2022.09 - 2026.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/thu.png" width="24pt"></a> Institute of Data and Information, Tsinghua University, Shenzhen, Guangdong, Ph.D
+- *2021.09 - 2024.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/seu.png" width="24pt"></a> The High School Affiliated to Renmin University of China
+- *2024.09 - now*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/thu.png" width="24pt"></a> Peking University
  
 <span class='anchor' id='-lwzl'></span>
 
